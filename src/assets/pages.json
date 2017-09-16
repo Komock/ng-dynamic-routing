@@ -1,0 +1,10 @@
+[{
+	"path": "",
+	"component": "HomeComponent"
+},{
+	"path": "contacts",
+	"component": "ContactsComponent"
+},{
+	"path": "**",
+	"component": "Page404Component"
+}]
